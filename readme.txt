@@ -3,7 +3,7 @@ Contributors: zayedbaloch, pixeldesign,
 Donate link: http://pixeldesign.io
 Tags: ionicons, ionic icons, font icon, posts, page, widget, sidebar, shortcode,
 Requires at least: 3.2
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 
@@ -17,7 +17,7 @@ This plugin allows you to easily embed Ionicons to your website using HTML or bu
 1. Shortcode support. Example: `[wpion icon=""]`
 2. Add Ionicons in Menu with shortcode.
 3. Support shortocde in Widgets.
-4. Font Awesome Version 2.0.1
+4. Ionicons Version 2.0.1
 
 == Installation ==
 
